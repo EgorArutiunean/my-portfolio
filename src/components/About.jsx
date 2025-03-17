@@ -6,7 +6,7 @@ function About() {
       <div className="max-w-6xl mx-auto flex flex-col md:flex-row items-center gap-8">
         {/* Фото */}
         <div className="flex-shrink-0">
-          <img src="/my-portfolio/Panda1.jpg" alt="Фото Егора" className="w-64 h-64 object-cover rounded-full shadow-lg" />
+          <img src="/Panda1.jpg" alt="Фото Егора" className="w-64 h-64 object-cover rounded-full shadow-lg" />
         </div>
 
         {/* Текст + Иконки + Кнопка */}
